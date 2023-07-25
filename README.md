@@ -42,4 +42,5 @@ List of urls
 ## Config grafana
 * Datasource
   * Loki = http://loki:3100
+  * Explore with Loki ...
 
