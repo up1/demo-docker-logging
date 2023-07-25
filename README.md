@@ -38,3 +38,8 @@ List of urls
 * http://localhost:4000
 * http://localhost:4000/test
 
+
+## Config grafana
+* Datasource
+  * Loki = http://loki:3100
+
