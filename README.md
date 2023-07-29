@@ -16,12 +16,12 @@ $docker network create loki
 
 Create grafana + loki
 ```
-$docker-compose -f docker-compose-grafana.yml up -d
+$docker compose -f docker-compose-grafana.yml up -d
 ```
 
 URL = http://localhost:3000
 * user=admin
-* password = admin
+* password=admin
 
 
 Create fluent-bit
